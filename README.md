@@ -5,7 +5,6 @@ featuring forward/reverse motor control, LCD menu system
 and interrupt driven emergency stop.
 
 ## Features
-## Features
 - Temperature mode selection (20C / 30C / 40C)
 - Water level selection (Level 1-5)
 - Motor timing modes (5s / 10s / 15s)
