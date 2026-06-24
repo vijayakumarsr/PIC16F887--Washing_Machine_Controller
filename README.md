@@ -14,7 +14,7 @@ and interrupt driven emergency stop.
 - Forward and reverse motor control via relay
 - Emergency stop via external interrupt (RB0)
 - LCD 16x2 display for mode indication
-- 
+  
 ## Tools Used
 - MPLAB X IDE
 - XC8 Compiler
